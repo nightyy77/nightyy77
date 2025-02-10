@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">🔭 I’m working as a **Developer** at **End RolePlay**<br>📚 I'm currently learning **Lua, HTML, and CSS**<br>⚡ In my free time, I love **gaming** 🎮, **coding** 💻, hitting the **gym** 💪</p>
+<p align="left">🔭 I’m working as a <strong>Developer</strong> at <strong>End RolePlay</strong><br>📚 I'm currently learning <strong>Lua, HTML, and CSS</strong><br>⚡ In my free time, I love <strong>gaming</strong> 🎮, <strong>coding</strong> 💻, hitting the <strong>gym</strong> 💪</p>
+
 
 ###
 
