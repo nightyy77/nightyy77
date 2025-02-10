@@ -29,8 +29,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as a <strong>Developer</strong> at <strong>End RolePlay</strong><br>📚 I'm currently learning <strong>Lua, HTML, and CSS</strong><br>⚡ In my free time, I love <strong>gaming</strong> 🎮, <strong>coding</strong> 💻, hitting the <strong>gym</strong> 💪</p>
-
+<p align="left">🔭 I’m working as a **Developer** at **End RolePlay**<br>📚 I'm currently learning **Lua, HTML, and CSS**<br>⚡ In my free time, I love **gaming** 🎮, **coding** 💻, hitting the **gym** 💪</p>
 
 ###
 
@@ -50,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
